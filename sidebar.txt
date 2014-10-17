@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pcc:home|Door43 (pcc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pcc|d43-pcc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pcc/archive/master.zip|d43-pcc.zip]]
+
+**Recent Changes**
+{{changes>ns = pcc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pcc|Ethnologue data]]
+
